@@ -1,0 +1,57 @@
+html {
+}
+
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+    background: #f8f8ff;
+	margin-left: 18%;
+	margin-right: 18%;
+	margin-top: 6%;
+	color: #000000;
+
+}
+
+h1 {
+
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+li:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.essay {
+	font-size: 18px;
+    line-height: 22px;
+    font-family: 'Crimson Text', serif;
+}
+
+.essay h1 {
+	font-family: 'Raleway', sans-serif;
+}
+
+.essay h2 {
+	font-family: 'Raleway', sans-serif;
+}
+
+.essay blockquote {
+	font-style: italic;
+	font-size: 16px;
+	line-height: 18px;
+}
