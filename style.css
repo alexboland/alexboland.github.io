@@ -26,12 +26,12 @@ li {
 	padding-bottom: 3px;
 }
 
-a:hover {
+li a:hover {
 	text-decoration: underline;
 	cursor: pointer;
 }
 
-a {
+li a {
 	text-decoration: none;
 	color: #000000;
 }
