@@ -45,11 +45,15 @@ li a {
 .essay h1 {
 	font-family: 'Raleway', sans-serif;
 	line-height: 38px;
+	padding-bottom:16px;
+	font-size: 34px;
 }
 
 .essay h2 {
-	padding-top: 18px;
+	padding-top: 22px;
 	font-family: 'Raleway', sans-serif;
+	line-height: 20px;
+	font-size: 24px;
 }
 
 .essay blockquote {
