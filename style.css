@@ -44,9 +44,11 @@ li a {
 
 .essay h1 {
 	font-family: 'Raleway', sans-serif;
+	line-height: 38px;
 }
 
 .essay h2 {
+	padding-top: 18px;
 	font-family: 'Raleway', sans-serif;
 }
 
