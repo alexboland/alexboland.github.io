@@ -13,6 +13,7 @@ body {
 
 }
 
+
 h1 {
 
 }
@@ -60,6 +61,32 @@ li a {
 	font-style: italic;
 	font-size: 16px;
 	line-height: 18px;
+}
+
+.book {
+	color: #ffffff;
+	background: #0d0d0d;
+	font-size: 20px;
+	line-height: 26px;
+}
+
+.book p {
+	font-family: 'Raleway', sans-serif;
+	margin: 26px;
+}
+
+.book ul {
+	list-style: circle;
+}
+
+.book ul li {
+	margin-top: 14px;
+	margin-bottom: 14px;
+}
+
+.book a {
+	color: #ffffff;
+	text-decoration: underline;
 }
 
 @media only screen and (max-device-width: 768px) {
