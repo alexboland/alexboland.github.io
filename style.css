@@ -14,10 +14,6 @@ body {
 }
 
 
-h1 {
-
-}
-
 ul {
     list-style: none;
 }
@@ -64,15 +60,21 @@ li a {
 }
 
 .book {
-	color: #ffffff;
-	background: #0d0d0d;
+	color: #000000;
+	background: rgb(165,200,228);
+	background: linear-gradient(90deg, rgba(165,200,228,1) 0%, rgba(83,124,154,1) 96%);
 	font-size: 20px;
 	line-height: 26px;
 }
 
+.book h2 {
+	margin-top: 36px;
+}
+
 .book p {
 	font-family: 'Raleway', sans-serif;
-	margin: 26px;
+	margin-top: 13px;
+	margin-bottom: 13px;
 }
 
 .book ul {
@@ -80,12 +82,11 @@ li a {
 }
 
 .book ul li {
-	margin-top: 14px;
 	margin-bottom: 14px;
 }
 
 .book a {
-	color: #ffffff;
+	color: #00164a;
 	text-decoration: underline;
 }
 
