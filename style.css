@@ -77,6 +77,12 @@ li a {
 	margin-bottom: 13px;
 }
 
+.book span {
+	font-family: 'Raleway', sans-serif;
+	margin-top: 13px;
+	margin-bottom: 13px;
+}
+
 .book ul {
 	list-style: circle;
 }
