@@ -108,3 +108,22 @@ li a {
 	}
 
 }
+
+.aphorisms {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+
+.aphorisms div {
+	padding-top: 6px;
+	padding-bottom: 6px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+.aphorism_date {
+	font-family: 'Raleway', sans-serif;
+	font-size: 17px;
+	padding-top: 0px;
+	margin-top: 0px;
+}
